@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: stream-sender
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: dengp
+Implementation-Vendor-Id: com.bobo
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/stream-sende
+ r/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
